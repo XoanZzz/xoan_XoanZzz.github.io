@@ -1,4 +1,4 @@
-title: Pagina de Xoan
+title: a
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
@@ -10,3 +10,17 @@ aux_links:
 search_enabled: false
 
 color_scheme: dark
+---
+title: b
+parent: a
+title: c
+parent: a
+title: d
+parent: a
+title: X
+parent: d
+title: y
+parent: d
+title: z
+parent: d
+---
