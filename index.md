@@ -3,15 +3,14 @@ title: Pagina de xoan
 layout: home
 ---
 title: a
-parent: home
-nav_order: 2
+nav_order: 1
 ---
 title: b
-parent: home
+parent: a
 nav_order: 2
 ---
 title: c
-parent: home
+parent: a
 nav_order: 2
 ---
 
