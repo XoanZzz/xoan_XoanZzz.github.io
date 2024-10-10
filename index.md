@@ -2,7 +2,8 @@
 title: Pagina de xoan
 layout: home
 ---
-
+title: a
+parent: Pagina de xoan
 
 
 
