@@ -2,14 +2,6 @@
 title: Pagina de xoan
 layout: home
 ---
-title: T
-parent: S
-grand_parent: X
----
-title: T
-parent: S
-grand_parent: Y
----
 
 
 
