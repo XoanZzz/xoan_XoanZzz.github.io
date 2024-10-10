@@ -2,15 +2,15 @@
 title: Pagina de xoan
 layout: home
 ---
+title: T
+parent: S
+grand_parent: X
 ---
-title: Main Navigation
-parent: Navigation
-nav_order: 1
+title: T
+parent: S
+grand_parent: Y
 ---
-title: Ancestry
-parent: Main Navigation
-nav_order: 4
----
+
 
 
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
