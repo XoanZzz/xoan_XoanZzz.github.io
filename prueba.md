@@ -1,1 +1,2 @@
-
+title: kona
+layout: home
