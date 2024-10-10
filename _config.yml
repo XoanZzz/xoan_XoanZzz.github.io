@@ -14,7 +14,7 @@ title: T
 parent: Pagina de Xoan
 grand_parent: X
 ---
-title: T
-parent: S
-grand_parent: Y
+title: z
+parent: T
+grand_parent: Pagina de Xoan
 ---
