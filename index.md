@@ -1,6 +1,6 @@
 ---
 title: Pagina de xoan
-layout: a
+layout: home
 layout: b
 parent: a
 title: c
