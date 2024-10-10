@@ -1,27 +1,17 @@
 ---
 title: Pagina de xoan
 layout: a
----
-title: b
+layout: b
 parent: a
-nav_order: 1
----
 title: c
 parent: a
-nav_order: 1
----
 title: d
 parent: a
-nav_order: 1
----
 title: x
 parent: d
-nav_order: 2
----
 title: z
 parent: d
-nav_order: 2
----
+
 
 
 
