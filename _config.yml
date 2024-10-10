@@ -10,11 +10,3 @@ aux_links:
 search_enabled: false
 color_scheme: dark
 
-title: T
-parent: Pagina de Xoan
-grand_parent: X
----
-title: z
-parent: T
-grand_parent: Pagina de Xoan
----
