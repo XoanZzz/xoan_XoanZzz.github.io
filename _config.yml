@@ -9,3 +9,12 @@ aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 search_enabled: false
 color_scheme: dark
+
+title: T
+parent: S
+grand_parent: X
+---
+title: T
+parent: S
+grand_parent: Y
+---
