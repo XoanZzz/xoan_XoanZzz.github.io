@@ -1,2 +1,2 @@
-title: kona
+title: prueba
 layout: home
