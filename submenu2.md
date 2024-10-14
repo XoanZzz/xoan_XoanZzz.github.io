@@ -1,5 +1,5 @@
 ---
 title: subemnu2
-parent: prueba2
+parent: Perro
 nav_order: 2
 ---
