@@ -1,4 +1,4 @@
 ---
-title: prueba2
+title: Serpiente
 layout: home
 ---
