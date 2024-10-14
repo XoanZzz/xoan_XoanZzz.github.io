@@ -10,10 +10,8 @@ aux_links:
 search_enabled: false
 color_scheme: dark
 
-# Aux links for the upper right navigation
 aux_links:
   "Alianza Global para el Control de la Rabia":
     - "https://rabiesalliance.org/"
 
-# Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
