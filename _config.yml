@@ -11,10 +11,4 @@ search_enabled: false
 color_scheme: dark
 
 
-# External navigation links
-nav_external_links:
-  - title: Alianza Global para el Control de la Rabia
-    url: https://rabiesalliance.org/
-    hide_icon: 
-    opens_in_new_tab: false 
 
