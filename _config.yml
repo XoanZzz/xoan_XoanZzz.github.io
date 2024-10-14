@@ -11,4 +11,10 @@ search_enabled: false
 color_scheme: dark
 
 
-aux_links_new_tab: false
+# External navigation links
+nav_external_links:
+  - title: Just the Docs on GitHub
+    url: https://rabiesalliance.org/
+    hide_icon: 
+    opens_in_new_tab: false 
+
