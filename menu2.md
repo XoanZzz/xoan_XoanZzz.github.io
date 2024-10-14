@@ -1,4 +1,4 @@
 ---
-title: Perro (salvaje y doméstico)
+title: Serpiente
 layout: home
 ---
