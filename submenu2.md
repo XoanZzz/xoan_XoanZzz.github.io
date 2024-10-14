@@ -1,5 +1,5 @@
 ---
 title: subemnu2
-parent: Perro
+parent: Perro (salvaje y doméstico)
 nav_order: 2
 ---
