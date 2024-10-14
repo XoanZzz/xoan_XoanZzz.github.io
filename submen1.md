@@ -1,5 +1,5 @@
 ---
 title: subprueba
-parent: Perro
+parent: Perro (salvaje y doméstico)
 nav_order: 2
 ---
